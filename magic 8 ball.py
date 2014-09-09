@@ -9,8 +9,7 @@ print('muuuuuuhahahaha')
 
 
 
-answers = ['YES!','NO!!!','MAYBE?','you are not cool','lololooolllllllllloooooo
-           ]
+answers = ['YES!','NO!!!','MAYBE?','you are not cool','nice',
 
 
 
